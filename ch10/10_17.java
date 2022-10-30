@@ -32,7 +32,7 @@ class CColor extends Car
    }
 }
 
-public class hw10_17
+public class 10_17
 {
    public static void main(String args[])
    {
