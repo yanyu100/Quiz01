@@ -30,7 +30,7 @@ class Cbbb extends Caaa
    }
 }
 
-public class hw10_3
+public class 10_03
 {
    public static void main(String args[])
    {
