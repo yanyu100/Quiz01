@@ -29,7 +29,7 @@ class CData extends CTriangle  //(a)
    }
 }
 
-public class hw10_6
+public class 10_06
 {
    public static void main(String args[])
    {
