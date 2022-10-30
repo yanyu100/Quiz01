@@ -30,7 +30,7 @@ class Namecard
    }
 }
 
-public class hw9_17
+public class 09_17
 {
    public static void main(String args[])
    {
