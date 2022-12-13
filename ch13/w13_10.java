@@ -24,7 +24,7 @@ class CCircle
    }
 }
 
-public class hw13_10
+public class w13_10
 {
    public static void main(String args[])
    {
